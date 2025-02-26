@@ -1,0 +1,926 @@
+{
+    "Sistema": {
+        "Sistema Operativo": "Windows",
+        "Versi\u00f3n": "10.0.26100",
+        "Arquitectura": "64bit",
+        "Nombre del Equipo": "LAPTOP-M742KKVK",
+        "Usuario Actual": "User"
+    },
+    "Hardware": {
+        "Procesador": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+        "N\u00facleos": 6,
+        "RAM Total (GB)": 7.77,
+        "Espacio en Disco (GB)": 475.58
+    },
+    "Software Instalado": [
+        {
+            "Nombre": "Python 3.12.4 Test Suite (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.13.1 Development Libraries (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Microsoft Teams Meeting Add-in for Microsoft Office",
+            "Versi\u00f3n": "1.24.23304",
+            "Fabricante": "Microsoft",
+            "Fecha de Instalaci\u00f3n": "20240927"
+        },
+        {
+            "Nombre": "Python 3.12.4 Add to Path (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python Launcher",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.13.1 Executables (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.12.4 Tcl/Tk Support (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.13.1 Documentation (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.13.1 Standard Library (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.13.1 Core Interpreter (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.12.4 Core Interpreter (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.12.4 Development Libraries (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.13.1 Tcl/Tk Support (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.12.4 pip Bootstrap (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "VirtualDJ 2018",
+            "Versi\u00f3n": "8.3.4720.0",
+            "Fabricante": "Atomix Productions",
+            "Fecha de Instalaci\u00f3n": "20221210"
+        },
+        {
+            "Nombre": "Python 3.13.1 pip Bootstrap (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.12.4 Documentation (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.13.1 Add to Path (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.13.1 Test Suite (64-bit)",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Python 3.12.4 Executables (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Python 3.12.4 Standard Library (64-bit)",
+            "Versi\u00f3n": "3.12.4150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20240722"
+        },
+        {
+            "Nombre": "Office 16 Click-to-Run Extensibility Component",
+            "Versi\u00f3n": "16.0.16130.20218",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230307"
+        },
+        {
+            "Nombre": "Office 16 Click-to-Run Localization Component",
+            "Versi\u00f3n": "16.0.16130.20218",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230307"
+        },
+        {
+            "Nombre": "Office 16 Click-to-Run Licensing Component",
+            "Versi\u00f3n": "16.0.16130.20218",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230307"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29913",
+            "Versi\u00f3n": "14.28.29913",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20250206"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content CS (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content IT (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - ES (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "NitroSense Service",
+            "Versi\u00f3n": "3.01.3028",
+            "Fabricante": "Acer Incorporated",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content ES (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Node.js",
+            "Versi\u00f3n": "20.18.0",
+            "Fabricante": "Node.js Foundation",
+            "Fecha de Instalaci\u00f3n": "20241007"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content NL (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Java(TM) SE Development Kit 23.0.2 (64-bit)",
+            "Versi\u00f3n": "23.0.2.0",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20250123"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660",
+            "Versi\u00f3n": "12.0.40660",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "Dynamic Application Loader Host Interface Service",
+            "Versi\u00f3n": "1.0.0.0",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content SV (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support",
+            "Versi\u00f3n": "16.0.28801",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - CS (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+            "Versi\u00f3n": "10.0.40219",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "MySQL Documents",
+            "Versi\u00f3n": "8.0.40",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content BR (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+            "Versi\u00f3n": "10.0.40219",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "Microsoft .NET Core Host FX Resolver - 3.1.10 (x64)",
+            "Versi\u00f3n": "24.104.29419",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230518"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Custom Data (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft .NET Core Host - 3.1.10 (x64)",
+            "Versi\u00f3n": "24.104.29419",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230518"
+        },
+        {
+            "Nombre": "Eclipse Temurin JDK con Hotspot 17.0.13+11 (x64)",
+            "Versi\u00f3n": "17.0.13.11",
+            "Fabricante": "Eclipse Adoptium",
+            "Fecha de Instalaci\u00f3n": "20250204"
+        },
+        {
+            "Nombre": "DB Browser for SQLite",
+            "Versi\u00f3n": "3.13.1",
+            "Fabricante": "DB Browser for SQLite Team",
+            "Fecha de Instalaci\u00f3n": "20250121"
+        },
+        {
+            "Nombre": "Tableau Public 2024.2 (20242.24.0711.1636)",
+            "Versi\u00f3n": "24.2.801",
+            "Fabricante": "Tableau Software, LLC",
+            "Fecha de Instalaci\u00f3n": "20240724"
+        },
+        {
+            "Nombre": "Oracle VirtualBox 7.1.4",
+            "Versi\u00f3n": "7.1.4",
+            "Fabricante": "Oracle and/or its affiliates",
+            "Fecha de Instalaci\u00f3n": "20250113"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Nero ControlCenter",
+            "Versi\u00f3n": "11.2.0015",
+            "Fabricante": "Nero AG",
+            "Fecha de Instalaci\u00f3n": "20230821"
+        },
+        {
+            "Nombre": "Corel Graphics - Windows Shell Extension",
+            "Versi\u00f3n": "23.0.362",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - BR (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "MySQL Workbench 8.0 CE",
+            "Versi\u00f3n": "8.0.40",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content RU (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Tenable Nessus (x64)",
+            "Versi\u00f3n": "10.8.3.20010",
+            "Fabricante": "Tenable, Inc.",
+            "Fecha de Instalaci\u00f3n": "20250117"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40660",
+            "Versi\u00f3n": "12.0.40660",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content EN (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual Basic for Applications 7.1 (x64)",
+            "Versi\u00f3n": "7.1.00.00",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - CT (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 -TR (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "MySQL Shell",
+            "Versi\u00f3n": "8.0.40",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": "Corel Graphics - Windows Shell Extension 32 Bit Keys",
+            "Versi\u00f3n": "23.0.362",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.40.33816",
+            "Versi\u00f3n": "14.40.33816",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20250116"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content PL (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Java 8 Update 441",
+            "Versi\u00f3n": "8.0.4410.7",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20250221"
+        },
+        {
+            "Nombre": "Java 8 Update 441 (64-bit)",
+            "Versi\u00f3n": "8.0.4410.7",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20250220"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Workspaces (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Intel(R) Management Engine Components",
+            "Versi\u00f3n": "1.0.0.0",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "Vagrant",
+            "Versi\u00f3n": "2.4.3",
+            "Fabricante": "HashiCorp",
+            "Fecha de Instalaci\u00f3n": "20250213"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - FR (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Nero Express",
+            "Versi\u00f3n": "17.0.5000",
+            "Fabricante": "Nero AG",
+            "Fecha de Instalaci\u00f3n": "20230821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Capture (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Python Launcher",
+            "Versi\u00f3n": "3.13.1150.0",
+            "Fabricante": "Python Software Foundation",
+            "Fecha de Instalaci\u00f3n": "20250103"
+        },
+        {
+            "Nombre": "Intel(R) LMS",
+            "Versi\u00f3n": "1.0.0.0",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "Intel(R) C++ Redistributables on Intel(R) 64",
+            "Versi\u00f3n": "15.0.179",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "Adobe Refresh Manager",
+            "Versi\u00f3n": "1.8.0",
+            "Fabricante": "Adobe Systems Incorporated",
+            "Fecha de Instalaci\u00f3n": "20250124"
+        },
+        {
+            "Nombre": "Adobe Acrobat (64-bit)",
+            "Versi\u00f3n": "24.005.20399",
+            "Fabricante": "Adobe",
+            "Fecha de Instalaci\u00f3n": "20250201"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Discovery (x64)",
+            "Versi\u00f3n": "23.0.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content DE (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Ghostscript GPL 8.64 (Msi Setup)",
+            "Versi\u00f3n": "8.64",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft ASP.NET Core 3.1.10 Shared Framework (x64)",
+            "Versi\u00f3n": "3.1.10.20520",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230518"
+        },
+        {
+            "Nombre": "Nero 2016",
+            "Versi\u00f3n": "17.0.02000",
+            "Fabricante": "Nero AG",
+            "Fecha de Instalaci\u00f3n": "20230821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IT (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - DE (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Windows Subsystem for Linux",
+            "Versi\u00f3n": "2.4.11.0",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20250215"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+            "Versi\u00f3n": "11.0.61030",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - RU (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Draw (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - CZ (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660",
+            "Versi\u00f3n": "12.0.40660",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "Autodesk Material Library 2022",
+            "Versi\u00f3n": "20.3.7.0",
+            "Fabricante": "Autodesk",
+            "Fecha de Instalaci\u00f3n": "20230518"
+        },
+        {
+            "Nombre": "Corel Update Manager",
+            "Versi\u00f3n": "2.14.626",
+            "Fabricante": "Corel corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Care Center Service",
+            "Versi\u00f3n": "4.00.3042",
+            "Fabricante": "Acer Incorporated",
+            "Fecha de Instalaci\u00f3n": "20220810"
+        },
+        {
+            "Nombre": "Microsoft .NET Core Runtime - 3.1.10 (x64)",
+            "Versi\u00f3n": "24.104.29419",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20230518"
+        },
+        {
+            "Nombre": "InfoStat",
+            "Versi\u00f3n": "2017.1.2",
+            "Fabricante": "Grupo InfoStat",
+            "Fecha de Instalaci\u00f3n": "20230926"
+        },
+        {
+            "Nombre": "Microsoft Visual Basic for Applications 7.1 (x64) English",
+            "Versi\u00f3n": "7.1.0.0",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content JP (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support",
+            "Versi\u00f3n": "16.0.28801",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Nitro Pro 10",
+            "Versi\u00f3n": "10.5.9.9",
+            "Fabricante": "Nitro",
+            "Fecha de Instalaci\u00f3n": "20220811"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - NL (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "MySQL Server 8.0",
+            "Versi\u00f3n": "8.0.40",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": null,
+            "Versi\u00f3n": null,
+            "Fabricante": null,
+            "Fecha de Instalaci\u00f3n": null
+        },
+        {
+            "Nombre": "Microsoft Visual Basic for Applications 7.1 (x64) Spanish",
+            "Versi\u00f3n": "7.1.0.0",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "DriverSetupUtility",
+            "Versi\u00f3n": "1.00.3026",
+            "Fabricante": "Acer Incorporated",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "MySQL Router 8.0",
+            "Versi\u00f3n": "8.0.40",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": "Killer Ethernet Performance Driver Suite UWD",
+            "Versi\u00f3n": "2.4.1541",
+            "Fabricante": "Rivet Networks",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "MySQL Installer",
+            "Versi\u00f3n": "1.6.12.0",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - SV (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content TR (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content CZ (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.40.33816",
+            "Versi\u00f3n": "14.40.33816",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20250116"
+        },
+        {
+            "Nombre": "VMware Player",
+            "Versi\u00f3n": "16.2.5",
+            "Fabricante": "VMware, Inc.",
+            "Fecha de Instalaci\u00f3n": "20250206"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - PHOTO-PAINT (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Intel(R) Management Engine Components",
+            "Versi\u00f3n": "1.0.0.0",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+            "Versi\u00f3n": "11.0.61030",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "Quick Access Service",
+            "Versi\u00f3n": "3.00.3038",
+            "Fabricante": "Acer Incorporated",
+            "Fecha de Instalaci\u00f3n": "20220816"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Common (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Acer Configuration Manager",
+            "Versi\u00f3n": "2.5.22250",
+            "Fabricante": "Acer",
+            "Fecha de Instalaci\u00f3n": "20221006"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+            "Versi\u00f3n": "11.0.61030",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Power BI Desktop (x64)",
+            "Versi\u00f3n": "2.130.930.0",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20240708"
+        },
+        {
+            "Nombre": "Nero Burning Core",
+            "Versi\u00f3n": "17.0.5000",
+            "Fabricante": "Nero AG",
+            "Fecha de Instalaci\u00f3n": "20230821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - PL (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Filters (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40660",
+            "Versi\u00f3n": "12.0.40660",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "Intel(R) Management Engine Driver",
+            "Versi\u00f3n": "1.0.0.0",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "Nero Core Components",
+            "Versi\u00f3n": "11.4.0040",
+            "Fabricante": "Nero AG",
+            "Fecha de Instalaci\u00f3n": "20230821"
+        },
+        {
+            "Nombre": "User Experience Improvement Program Service",
+            "Versi\u00f3n": "5.00.3012",
+            "Fabricante": "Acer Incorporated",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content FR (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Nero Burning ROM",
+            "Versi\u00f3n": "17.0.5000",
+            "Fabricante": "Nero AG",
+            "Fecha de Instalaci\u00f3n": "20230821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Font Manager (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29913",
+            "Versi\u00f3n": "14.28.29913",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20250206"
+        },
+        {
+            "Nombre": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+            "Versi\u00f3n": "11.0.61030",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20220821"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Models (x64)",
+            "Versi\u00f3n": "23.0.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - VBA (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - JP (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Microsoft Update Health Tools",
+            "Versi\u00f3n": "5.72.0.0",
+            "Fabricante": "Microsoft Corporation",
+            "Fecha de Instalaci\u00f3n": "20231102"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - IPM Content CT (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "ExpressVPN",
+            "Versi\u00f3n": "2.4.22135.2",
+            "Fabricante": "Acer",
+            "Fecha de Instalaci\u00f3n": "20220716"
+        },
+        {
+            "Nombre": "MySQL Examples and Samples",
+            "Versi\u00f3n": "8.0.40",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20241023"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Docs (x64)",
+            "Versi\u00f3n": "23.0",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Setup Files (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - EN (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": "Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Java(TM) SE Development Kit 19.0.2 (64-bit)",
+            "Versi\u00f3n": "19.0.2.0",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20230505"
+        },
+        {
+            "Nombre": "Autodesk Material Library Base Resolution Image Library 2022",
+            "Versi\u00f3n": "20.3.7.0",
+            "Fabricante": "Autodesk",
+            "Fecha de Instalaci\u00f3n": "20230518"
+        },
+        {
+            "Nombre": "Java Auto Updater",
+            "Versi\u00f3n": "2.8.441.7",
+            "Fabricante": "Oracle Corporation",
+            "Fecha de Instalaci\u00f3n": "20250220"
+        },
+        {
+            "Nombre": "CorelDRAW Graphics Suite 2021 - Writing Tools (x64)",
+            "Versi\u00f3n": "23.1",
+            "Fabricante": " Corel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220815"
+        },
+        {
+            "Nombre": "Intel(R) Chipset Device Software",
+            "Versi\u00f3n": "10.1.18698.8258",
+            "Fabricante": "Intel Corporation",
+            "Fecha de Instalaci\u00f3n": "20220312"
+        }
+    ],
+    "Documentos": {
+        "Documentos": [
+            ".ipynb_checkpoints",
+            "AA oficio Donaiones.docx",
+            "Adobe",
+            "Archivos de Outlook",
+            "audio-saludo-pasto.ogg",
+            "audio-saludo-pasto.xmp",
+            "certificadoBasicoBancaMovil (1)_001.pdf",
+            "Corel",
+            "Corel Cloud",
+            "css"
+        ]
+    },
+    "Dispositivos en Red": []
+}
